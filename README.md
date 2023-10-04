@@ -4,11 +4,11 @@
 #### I'm a Full-Stack Freelance Software Developer.
 
 <h3> 🛠 &nbsp;I currently work on</h3>
-- 💻 Python | C++ | Java
-- 🌐 HTML5 | CSS3 | JavaScript | Bootstrap | TailwindCSS | React.js | Node.js | Next.js | Typescript
-- 🛢 MySQL | PostgreSQL | MongoDB
-- ⚙️ Git | Github
-- 🔧 Visual Studio Code
+- 💻 Python | C++ | Java <br/>
+- 🌐 HTML5 | CSS3 | JavaScript | Bootstrap | TailwindCSS | React.js | Node.js | Next.js | Typescript <br/>
+- 🛢 MySQL | PostgreSQL | MongoDB <br/>
+- ⚙️ Git | Github <br/>
+- 🔧 Visual Studio Code <br/>
 <br/>
 
 <a href="https://github.com/MurtazaAhmad">
