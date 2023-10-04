@@ -4,7 +4,6 @@
 #### I'm a Full-Stack Freelance Software Developer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- 🔭 I’m currently working on ...
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -34,8 +33,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/MurtazaAhmad">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MurtazaAhmad&theme=buefy&show_icons=true" />
+  <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtazaAhmad&theme=buefy&layout=compact" />
 </a>
 
