@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-### Hi there, I'm Murtaza 👋
+
 </div>
 
 ---
-
+### Hi there, I'm Murtaza 👋
 #### I'm a Full-Stack Freelance Software Engineer.
 
 <h3> 🛠 &nbsp;I currently work on</h3>
