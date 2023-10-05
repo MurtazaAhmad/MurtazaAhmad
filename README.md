@@ -28,6 +28,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtazaAhmad&theme=buefy&layout=compact" />
 </a>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MurtazaAhmad)  
+
+![GitHub metrics](https://metrics.lecoq.io/MurtazaAhmad)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MurtazaAhmad)  
+
+
 <br/>
  <h3> 🛠 &nbsp;Find me here</h3>
 
