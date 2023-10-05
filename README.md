@@ -31,4 +31,6 @@
 <br/>
  <h3> 🛠 &nbsp;Find me here</h3>
 
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/06/Upwork-New-Logo.png" alt="bootstrap" width="40" height="40"/> </a>
+<p align="left"> 
+
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/06/Upwork-New-Logo.png" alt="bootstrap" width="50"/> </a>
