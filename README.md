@@ -1,11 +1,10 @@
 
 <div id="header" align="center">
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="murtazaahmad" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=murtazaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="murtazaahmad" /> </p>
 </div>
-[![MasterHead](https://komarev.com/ghpvc/?username=murtazaahmad&label=Profile%20views&color=0e75b6&style=flat)]
 ---
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
 
 <h3>Hi there, I'm Murtaza 👋 </h3>
 <p> I'm a Full-Stack Freelance Software Engineer. </p>
