@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif"/>
-<p> <img src="https://komarev.com/ghpvc/?username=murtazaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="murtazaahmad" /> </p>
+<!--<p> <img src="https://komarev.com/ghpvc/?username=murtazaahmad&label=Profile%20views&color=0e75b6&style=flat" alt="murtazaahmad" /> </p> -->
 </div>
 
 
@@ -28,9 +28,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurtazaAhmad&theme=buefy&layout=compact" />
 </a>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MurtazaAhmad)  
-
-![GitHub metrics](https://metrics.lecoq.io/MurtazaAhmad)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MurtazaAhmad)  
 
 
