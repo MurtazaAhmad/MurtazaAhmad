@@ -10,7 +10,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300"/>
 -->
 <h3>Hi there, I'm Murtaza 👋 </h3>
-<p> I'm a Full-Stack Freelance Software Engineer. </p>
+<p> I'm a Full-Stack Software Engineer. </p>
 
 <!--<h3> 🛠 &nbsp;I currently work on</h3>
 - 💻 Python | C++ | Java <br/>
@@ -85,3 +85,4 @@
 <p align="left"> 
 
 <a href="https://www.upwork.com/freelancers/murtazaahmad5" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/06/Upwork-New-Logo.png" alt="bootstrap" width="50"/> </a>
+<a href="www.linkedin.com/in/murtaza-ahmad-764771110"><img src="="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
