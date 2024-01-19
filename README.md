@@ -84,5 +84,6 @@
 
 <p align="left"> 
 
-<a href="https://www.upwork.com/freelancers/murtazaahmad5" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2021/06/Upwork-New-Logo.png" alt="bootstrap" width="50"/> </a>
+<a href="https://www.upwork.com/freelancers/murtazaahmad5" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="bootstrap" width="50"/> </a>
 <a href="www.linkedin.com/in/murtaza-ahmad-764771110"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
